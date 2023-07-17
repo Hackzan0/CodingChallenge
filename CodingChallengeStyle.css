@@ -1,0 +1,67 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    font-family: 'Calibri';
+}
+
+.box{
+    background-color: rgba(0, 0, 0, 0.50);
+    border-radius: 25px;
+    width: 60%;
+    color: white;
+    padding: 40px;
+}
+
+header{
+    text-align: center;
+    color: #83f52c;
+}
+
+header > img{
+   width: 17%;
+}
+
+nav{
+    background-color: #83f52c;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+nav > button{
+    margin: 1px;
+}
+
+main{
+    padding-top: 15px;
+}
+
+div > span{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+main > hr{
+    border-top: 30px solid;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.Gino22{
+   width: 40%;
+   border-color: orange;
+}
+
+.Mike24{
+    width: 60%;
+    border-color: greenyellow;
+    
+}
+
+.Fede154{
+    width: 20%;
+    border-color: red;
+}
